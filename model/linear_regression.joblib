@@ -1,0 +1,27 @@
+# Regression Project
+
+Project ini adalah contoh **regresi sederhana** untuk memprediksi nilai kontinu (contoh: harga rumah) menggunakan Python, Scikit-Learn, dan pipeline data science standar.
+
+## 🚀 Alur Project
+1. **Collect Data** → Ambil dataset (CSV / sklearn / Kaggle) dan simpan di `data/raw/`.
+2. **EDA** → Analisis data eksploratif (`02_EDA.ipynb`).
+3. **Preprocessing** → Cleaning, encoding, scaling (`src/preprocessing.py`).
+4. **Modeling** → Training model regresi (`src/modeling.py`).
+5. **Evaluation** → Evaluasi model (RMSE, MAE, R²).
+6. **Interpretation** → Analisis fitur penting & insight bisnis.
+
+## 📂 Struktur Folder
+data/
+├── raw/ # Data asli
+├── processed/ # Data setelah preprocessing
+notebooks/ # Jupyter Notebook per tahap
+src/ # Source code modular
+models/ # Model hasil training
+outputs/ # Figures & laporan
+
+
+## ⚙️ Cara Menjalankan
+1. Clone repo ini:
+   ```bash
+   git clone <url-repo>
+   cd regression-project

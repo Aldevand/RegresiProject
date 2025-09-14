@@ -1,0 +1,6 @@
+filename: housing_raw_20250914.csv
+source: Local upload
+uploaded_at: 2025-09-14
+rows: 20640
+cols: 10
+notes: Dataset awal untuk latihan regresi sederhana

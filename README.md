@@ -6,15 +6,8 @@
 - Mengaktifkan environment sebelum menjalankan kode
 
 ## 2. Struktur Direktori
-project/
-│
-├── data/
-│ ├── raw/ # Menyimpan file asli hasil upload
-│ ├── processed/ # Menyimpan data yang sudah dibersihkan
-│
-├── notebooks/ # Jupyter Notebook (.ipynb)
-├── src/ # Script Python utama
-└── README.md # Dokumentasi project
+<img width="584" height="1030" alt="STRUKTUR FOLDER - visual selection" src="https://github.com/user-attachments/assets/4fc79969-271d-4f38-aba4-d1dc6e12a9e8" />
+
 
 ## 3. Pipeline Project
 

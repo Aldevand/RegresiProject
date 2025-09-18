@@ -1,4 +1,4 @@
-# Proyek Analisis Data
+# Project Analisis dan Regresi
 
 ## 1. Setup Environment
 - Membuat environment baru dengan conda

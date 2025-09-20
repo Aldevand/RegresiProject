@@ -19,6 +19,14 @@ Preprocessing → Pembersihan data, encoding, scaling, dll.
 
 Modeling → Membangun model regresi (contoh: Linear Regression).
 
-Evaluation → Evaluasi performa model dengan metrik regresi (MSE, RMSE, R²).
+Evaluation → Evaluasi performa model dengan metrik regresi (MSE, R²).
 
-Interpretation → Menarik insight dan membuat laporan.
+Hasil Evaluasi
+R-squared Score: Nilai R-squared (R²) Anda menunjukkan seberapa baik model dapat menjelaskan variabilitas dalam data. Nilai R² yang tinggi, mendekati 1, mengindikasikan bahwa model Anda mampu menjelaskan sebagian besar varian dalam variabel target. Ini adalah metrik yang sangat baik untuk model regresi.
+
+Mean Squared Error (MSE) dan Root Mean Squared Error (RMSE): Metrik ini mengukur rata-rata kuadrat kesalahan antara nilai yang diprediksi dan nilai sebenarnya. Semakin rendah nilai MSE dan RMSE, semakin kecil kesalahan prediksi rata-rata model Anda, yang menunjukkan performa yang lebih baik.
+
+Interpretasi Visual
+Scatter Plot (Nilai Sebenarnya vs. Prediksi): Plot ini menunjukkan korelasi kuat antara nilai yang diprediksi oleh model dan nilai sebenarnya. Titik-titik data cenderung berada di dekat garis diagonal, yang menunjukkan bahwa model memiliki kemampuan prediksi yang konsisten di seluruh rentang nilai data.
+
+
